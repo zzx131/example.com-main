@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/util"
+	util "github.com/zzx131/example.com-util"
 )
 
 func main() {
