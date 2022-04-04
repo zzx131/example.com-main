@@ -1,4 +1,4 @@
-module example.com/main
+module github.com/zzx131/example.com-main
 
 go 1.18
 
